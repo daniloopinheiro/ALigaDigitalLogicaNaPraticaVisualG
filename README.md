@@ -1,4 +1,4 @@
-# A-Liga-Digital - Lógica Na Prática VisualG
+# A-Liga-Digital - Lógica Na Prática Com VisualG
 
 ### Participantes Integrados Ao Treinamento Lógico Prático.
 
