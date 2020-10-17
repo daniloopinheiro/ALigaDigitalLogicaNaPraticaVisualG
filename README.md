@@ -16,3 +16,11 @@
 * Aline
 * José
 * Luciano
+
+#### AULA 03 - LÓGICA NA PRÁTICA - RECEITA DE ARROZ CONTINUAÇÃO.
+
+* Ágata
+* ALina
+* Aline
+* José
+* Luciano
