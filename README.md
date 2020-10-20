@@ -22,5 +22,3 @@
 * Ágata
 * ALina
 * Aline
-* José
-* Luciano
