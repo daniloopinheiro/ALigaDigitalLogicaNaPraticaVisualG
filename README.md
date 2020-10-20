@@ -1,4 +1,6 @@
-# A-Liga-Digital - Lógica Na Prática Com VisualG
+<a href="https://www.linkedin.com/company/a-liga-digital/" rel="A Liga Digital">![Foo](https://media-exp1.licdn.com/dms/image/C560BAQH0TezxSODLWw/company-logo_200_200/0?e=2159024400&v=beta&t=5ehFR6DsVl-HRNBVycjuTvqgi6HL7vbqJrXK2Q1Vzeo)</a>
+
+# Lógica Na Prática Com VisualG
 
 ### Participantes Integrados Ao Treinamento Lógico Prático.
 
