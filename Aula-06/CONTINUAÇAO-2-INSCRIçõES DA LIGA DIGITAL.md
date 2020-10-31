@@ -1,6 +1,3 @@
-* Aula 6 : 
-Foi modificado para uma nova ferramenta que utilizamos no dia 30/10/2020
-
 # FERRAMENTA QUE UTILIZAMOS
 
  <br><img height="90" src=https://img.informer.com/icons/png/128/5858/5858329.png />
